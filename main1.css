@@ -1,0 +1,7 @@
+body {
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(1234.jpg);
+	color: rgb(255, 255, 255);
+	font-family: sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+}
